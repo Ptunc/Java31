@@ -18,5 +18,6 @@ public class java31 {
         }
         System.out.println("ebob: " + ebob);
         System.out.println("ekok: " + (a*b)/ebob);
+        input.close();
     }
 }
